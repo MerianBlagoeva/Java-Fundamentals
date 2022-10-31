@@ -1,4 +1,4 @@
-                                           # Programming-Fundamentals
+ # Java Fundamentals
 
 ![SoftuniLogo](https://user-images.githubusercontent.com/110605865/183459408-9cc75814-de69-4b40-9ff4-edccdb15148a.png)
 
