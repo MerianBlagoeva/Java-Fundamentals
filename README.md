@@ -21,4 +21,6 @@
 - **Problem Solving**
 - **Regular Expressions**
 - **Database Basics**
-- **QA Introduction**
+- **QA Introduction**  
+
+![certificate](https://user-images.githubusercontent.com/110605865/231843919-025191e7-bb65-48a9-80f5-f38b7e79e1c5.png)
